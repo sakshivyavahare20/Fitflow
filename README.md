@@ -24,8 +24,7 @@ Built with **React.js (frontend)**, **Django (backend)**, **MySQL (database)**, 
 - **Authentication & Email:** Django Auth, SMTP  
 - **Development Tools:** Git, GitHub, VS Code, Postman  
 - **Version Control:** Git & GitHub  
-- **Server:** Django Development Server (Nginx for production)  
-
+ 
 ---
 
 ## 🚀 Installation & Setup
