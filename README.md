@@ -43,11 +43,13 @@ python manage.py migrate
 python manage.py runserver
 
 3.Setup frontend (React):
+
 cd frontend
 npm install
 npm start
 
-4.Access the app at http://localhost:3000
+4.Access the app at:
+ http://localhost:3000
 Note: Ensure MySQL is running and properly configured before running migrations.
 
 
